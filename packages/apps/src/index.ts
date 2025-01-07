@@ -43,6 +43,7 @@ import { x } from './lib/x/x.app';
 import { youtube } from './lib/youtube/youtube.app';
 import { zohoBooks } from './lib/zoho-books/zoho-books.app';
 import { zohoCrm } from './lib/zoho-crm/zoho-crm.app';
+import { qrcode } from './lib/qr-code/qr-code.app' ;
 
 const apps: Record<string, ReturnType<typeof createApp>> = {
   [ai.id]: ai,
@@ -88,6 +89,7 @@ const apps: Record<string, ReturnType<typeof createApp>> = {
   [youtube.id]: youtube,
   [zohoBooks.id]: zohoBooks,
   [zohoCrm.id]: zohoCrm,
+  [qrcode.id]: qrcode,
 };
 
 export {
@@ -133,6 +135,7 @@ export {
   youtube,
   zohoBooks,
   zohoCrm,
+  qrcode
 };
 
 export default apps;
