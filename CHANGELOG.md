@@ -1,3 +1,23 @@
+## [0.27.1](https://github.com/lecca-digital/lecca-io/compare/v0.27.0...v0.27.1) (2025-01-07)
+
+
+### Bug Fixes
+
+* Update lockfile ([eae6fff](https://github.com/lecca-digital/lecca-io/commit/eae6fff6b551bcc45c6e4b3331eda7d11dda2c4e))
+
+# [0.27.0](https://github.com/lecca-digital/lecca-io/compare/v0.26.0...v0.27.0) (2025-01-07)
+
+
+### Bug Fixes
+
+* **ui:** Fix autofocus issue when updating agent ([f7327fd](https://github.com/lecca-digital/lecca-io/commit/f7327fd29a53eaa0e274f8df8ccca4c6e7fb73ef))
+
+
+### Features
+
+* **ui:** Update agent side nav and redirect home to agents page ([670adec](https://github.com/lecca-digital/lecca-io/commit/670adeca51ddf9214f1cacb7439933565e29d430))
+* **ui:** Update agent side nav and redirect home to agents page ([fc63dec](https://github.com/lecca-digital/lecca-io/commit/fc63dec2c712e10dab1d94f36148a3e479d4c1cc))
+
 # [0.26.0](https://github.com/lecca-digital/lecca-io/compare/v0.25.0...v0.26.0) (2025-01-06)
 
 
